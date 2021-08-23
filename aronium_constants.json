@@ -1,0 +1,27 @@
+[
+  {
+    "directory_name": "Receipts/receipt_text/",
+    "ES_index_name": "structured_receipts",
+    "ES_ini_file_name": "example.ini",
+    "main_date_format": "%m/%d/%Y %H:%M:%S",
+    "alternative_date_format": "%Y-%m-%d %H:%M:%S",
+    "ES_date_format": "%Y-%m-%d %H:%M:%S",
+    "None_data_error_msg": "None value received",
+    "transaction_id_keyword": "Receipt No.: ",
+    "currency": "$",
+    "quantity_price_splitter": " x ",
+    "keys_values_splitter": ":",
+    "datetime_info_line": 1,
+    "space_splitter": " ",
+    "ES_ini_file": "example.ini",
+    "int_values": [
+      "Order No.",
+      "Items count"
+    ],
+    "float_values": [
+      "Cash",
+      "Paid amount",
+      "TOTAL"
+    ]
+  }
+]

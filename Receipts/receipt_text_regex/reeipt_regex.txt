@@ -1,0 +1,29 @@
+   Transaction ID: 21-200-000132
+   7/27/2021 11:24:57 AM
+   User: wisam farraj
+   Order No.: 131
+   Cappuccino
+   1 X $10.00                                                                                                                $10.00
+   Espresso
+   1 X $10.00                                                                                                                $10.00
+   Frappccuino
+   1 X $10.00                                                                                                                $10.00
+   French hazellnut
+   1 X $10.00                                                                                                                $10.00
+   French vanilla
+   1 X $10.00                                                                                                                $10.00
+   Latte
+   1 X $10.00                                                                                                                $10.00
+   Mocha
+   1 X $10.00                                                                                                                $10.00
+   Pican pie
+   1 X $10.00                                                                                                                $10.00
+   Signature chocolate
+   1 X $10.00                                                                                                                $10.00
+   Spanish latte
+   1 X $10.00                                                                                                                $10.00
+   Items count: 10
+    TOTAL:                                                                                                  $100.00
+   Cash:                                                                                                                $100.00
+   Paid amount:                                                                                                         $100.00
+                                        21-200-000132
