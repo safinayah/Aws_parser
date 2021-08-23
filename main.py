@@ -71,9 +71,6 @@ if __name__ == "__main__":
     """
     The client code can work with any concrete factory class.
     """
-    ronium_POS = "Aronium"
-    ICG_POS = "ICG"
-
     Aronium_POS = "Aronium"
     ICG_POS = "ICG"
 
